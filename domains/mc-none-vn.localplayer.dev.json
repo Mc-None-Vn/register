@@ -1,0 +1,11 @@
+{
+    "description": "a site that serves a small community and it will probably have an api too",
+    "domain": "localplayer.dev",
+    "subdomain": "mc-none-vn",
+
+    "owner": {
+        "email": "mc.none.vn@gmail.com"
+    },
+
+    "proxied": true
+}
